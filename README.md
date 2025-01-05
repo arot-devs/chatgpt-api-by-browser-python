@@ -16,7 +16,7 @@ You may refer to original repo for mostly how it works: https://github.com/zsodu
 **browser side**:
 
 1. Install userscript in the repo with tampermonkey
-2. In order to connect to the websocket backend, use some plugin that disables Content-Security-Policy (CSP), like [this one](`https://chromewebstore.google.com/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden?pli=1)
+2. In order to connect to the websocket backend, use some plugin that disables Content-Security-Policy (CSP), like [this one](https://chromewebstore.google.com/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden?pli=1)
 
 (Currently there's no UI for it. To check connection status, press `F12` and see console messages).
 
